@@ -1,0 +1,6 @@
+test if has create link
+:q
+
+:q
+
+
